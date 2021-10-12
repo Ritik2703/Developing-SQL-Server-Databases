@@ -1,0 +1,5 @@
+M:\Pluralsight Video Courses\UsingGroupHaving\examples\sql-group-having\GenerateRegisterReceipts\GenerateRegisterReceipts\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Pluralsight Video Courses\UsingGroupHaving\examples\sql-group-having\GenerateRegisterReceipts\GenerateRegisterReceipts\bin\Debug\GenerateRegisterReceipts.exe
+M:\Pluralsight Video Courses\UsingGroupHaving\examples\sql-group-having\GenerateRegisterReceipts\GenerateRegisterReceipts\bin\Debug\GenerateRegisterReceipts.pdb
+M:\Pluralsight Video Courses\UsingGroupHaving\examples\sql-group-having\GenerateRegisterReceipts\GenerateRegisterReceipts\obj\x86\Debug\GenerateRegisterReceipts.exe
+M:\Pluralsight Video Courses\UsingGroupHaving\examples\sql-group-having\GenerateRegisterReceipts\GenerateRegisterReceipts\obj\x86\Debug\GenerateRegisterReceipts.pdb

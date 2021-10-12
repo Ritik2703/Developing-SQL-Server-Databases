@@ -1,0 +1,5 @@
+D:\SqlVidCourse\Modules\Query Plan Management\examples\UsingADONETQueries\UsingADONETQueries\bin\Debug\UsingADONETQueries.exe
+D:\SqlVidCourse\Modules\Query Plan Management\examples\UsingADONETQueries\UsingADONETQueries\bin\Debug\UsingADONETQueries.pdb
+D:\SqlVidCourse\Modules\Query Plan Management\examples\UsingADONETQueries\UsingADONETQueries\obj\Debug\ResolveAssemblyReference.cache
+D:\SqlVidCourse\Modules\Query Plan Management\examples\UsingADONETQueries\UsingADONETQueries\obj\Debug\UsingADONETQueries.exe
+D:\SqlVidCourse\Modules\Query Plan Management\examples\UsingADONETQueries\UsingADONETQueries\obj\Debug\UsingADONETQueries.pdb
